@@ -1,7 +1,7 @@
 # Mini wiertarka
 
 ## 1. Opis zasady działania
-
+> Autorzy: Reinskyi Oleksandr 262564, Bohdan Pospolita 262562
 
 
 **Cel:** Podczas domowej produkcji płytek powstała potrzeba wiercenia otworów w tekstolicie. Dlatego powstał pomysł zaprojektowania wiertarki wlaśnie do tych potrzeb. 
