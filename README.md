@@ -39,7 +39,7 @@ System składa się z trzech modułów:
 ![.](docs/7.jpg)
 
 ### Demonstracja wideo
-[Link](https://www.youtube.com/watch?v=rtPFrEMRT7Q)
+[Link](https://www.youtube.com/shorts/_mu2Nx89iDE)
 
 ### Zmontowany prototyp
 | ![](docs/3.jpg) | ![](docs/4.jpg) |
