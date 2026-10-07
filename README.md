@@ -1,7 +1,7 @@
 # Mini wiertarka
 
 ## 1. Opis zasady działania
-> Autorzy: Reinskyi Oleksandr 262564, Bohdan Pospolita 262562
+> Autorzy: Oleksandr Reinskyi 262564, Bohdan Pospolita 262562
 
 
 **Cel:** Podczas domowej produkcji płytek powstała potrzeba wiercenia otworów w tekstolicie. Dlatego powstał pomysł zaprojektowania wiertarki wlaśnie do tych potrzeb. 
@@ -54,10 +54,10 @@ System składa się z trzech modułów:
 
 ### Napotkane trudności:
 #### 1. Symulacja 
-* Najpierw podłączyłem wejście drugiego wzmaczniacza do wyjście pierwszego, a nie do węzła kondesatora, i dlatego regulacja była niemożliwa.
+* Najpierw podłączyliśmy wejście drugiego wzmaczniacza do wyjście pierwszego, a nie do węzła kondesatora, i dlatego regulacja była niemożliwa.
 
 #### 2. Dóbór wartości
-* Najpierw chciałem zastosować zasiłacz o wartości napięcia 12V, ale wartość maksymalnego prądu silnika (stall current = 5A) przekraczała możliwości zasiłacza. Dlatego wybrałem zasiłacz na 20V. Nie zauważyłem, że dla wybranego tranzystora LR3103 wartość napięcia między Gate a Source może wynosić maksymalnie 16v. Dlatego musiałem dolutować diodę Zenera, która stabilizuje napięcie na poziomie 10v.  
+* Najpierw chcieliśmy zastosować zasiłacz o wartości napięcia 12V, ale wartość maksymalnego prądu silnika (stall current = 5A) przekraczała możliwości zasiłacza. Dlatego wybraliśmy zasiłacz na 20V. Nie zauważyliśmy, że dla wybranego tranzystora LR3103 wartość napięcia między Gate a Source może wynosić maksymalnie 16v. Dlatego musieliśmy dolutować diodę Zenera, która stabilizuje napięcie na poziomie 10v.  
 
 ![](docs/Diode.jpg)
 
